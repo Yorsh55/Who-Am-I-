@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Yorsh55
-- 👀 I’m interested in Data Analysis and AI
+- 👋 Hi, I’m Jorge De la Pena
+- 👀 I’m interested in Data Analysis, Machine Learning and AI
 - 🌱 I’m currently learning Data Analysis techniques and Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on real world projects and gain more experience
 - 📫 How to reach me jorge_eduardo55@hotmail.com
+- 🧑🏻‍💻 Find me on Linkedin https://linkedin.com/in/jorgedlp
 
 
 <!---
